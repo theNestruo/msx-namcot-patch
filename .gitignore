@@ -1,0 +1,4 @@
+*.exe
+*.rom
+tniasm.sym
+tniasm.tmp

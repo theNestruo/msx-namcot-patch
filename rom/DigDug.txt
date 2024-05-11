@@ -1,0 +1,5 @@
+MD5 hash of DigDug.rom:
+c0cbfd77ff3cabb9cf44ed53bf0ed14b
+
+SHA1 hash of DigDug.rom:
+6e2e5cff4ee4dd935fbe6684f2c54b39eca06092

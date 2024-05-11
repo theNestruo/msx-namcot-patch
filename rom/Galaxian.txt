@@ -1,0 +1,5 @@
+MD5 hash of Galaxian (1984)(Namcot)(JP)(en)[!][GoodMSX].rom:
+7b12aba02cceae5e3a05ce9f0ca9acf3
+
+SHA1 hash of Galaxian (1984)(Namcot)(JP)(en)[!][GoodMSX].rom:
+e2abb08abacce57703fc008881279890328f6277
